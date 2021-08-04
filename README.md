@@ -14,7 +14,7 @@ To get started with API2Cart register an account for a 30-day trial. You can add
 
 <h2><b>SDK and full tech support</b></h2>
 
-Download our SDK http://docs.api2cart.com/sdk to test how the API works.
+Download our SDK http://docs.api2cart.com/sdk to test how the API works including CS-Cart methods.
 Our team always here to help you with any challenges. Furthermore, API2Cart can broaden functionality on request to meet unique business needs and requirements.<br>
 
 <a href="http://docs.api2cart.com/sdk" target="_blank"><img src="https://api2cart.com/wp-content/uploads/2018/07/sdk-1.png" alt="SDK"></a>
@@ -38,7 +38,7 @@ See all supported methods and platforms https://api2cart.com/supported-api-metho
 
 <h2><b>Contact us</b></h2>
   
-If you have any questions or problems, please contact us.
+If you have any questions or problems, please contact us at https://api2cart.com/contact-us/.
 You can also reach us at manager@api2cart.com. You can also mail us your ideas and suggestions about any changes.
 
 <h2><b>Support</b></h2>
